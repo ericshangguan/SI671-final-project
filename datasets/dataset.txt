@@ -1,0 +1,3 @@
+Since the datasets are too large in total, we only provide the website of data.
+https://sports-statistics.com/sports-data/nba-basketball-datasets-csv-files/
+https://www.kaggle.com/datasets/nathanlauga/nba-games/
